@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #011020;
+  font-family: sans-serif;
+}
+#app{
+  background-color: white;
+  width: 80%;
+  margin: auto;
+  padding: 2%;
+}
+select{
+  padding: 2% 1%;
+  width: 50%;
+  font-size: larger;
+  
+}
+
+h1{
+  padding: 2% 0;
+  font-size: xx-large;
+  border-bottom: rgb(137, 130, 238) 2px solid;
+}
+ul{
+  padding: 5% 0;
+}
+li{
+  background-color: rgb(55, 57, 179);
+  color: white;
+  padding: 2%;
+  margin-bottom: 1%;
+  border-radius: 20px;
+
+}
+span{
+  padding: 1%;
+  background-color: rgb(177, 130, 238);
+  margin: 1%;
+  border-radius: 5px;
+}
+/* Ajoute tous les styles dont tu as besoin ici */
+/* 
+  codes couleurs :
+  - bleu des items de listes : #0052a9
+  - bleu des tags : #1771da
+  - gris des select: #eee
+  - gris des bordures: #bbb
+*/
